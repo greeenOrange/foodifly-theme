@@ -4,10 +4,10 @@
 **Foodifly** is a versatile WordPress theme designed for food and restaurant websites. This theme features a clean, modern design with customizable elements to match your branding needs.
 
 ## Live Demo
-:black_medium_square: [Live Demo](https://your-live-demo-url.com)
+:black_medium_square: [Live Demo](http://localhost/foodifly/)
 
 ## Repository Details
-:black_medium_small_square: [GitHub Repository](https://github.com/yourusername/foodifly)
+:black_medium_small_square: [GitHub Repository](https://github.com/greeenOrange/foodifly-theme.git)
 
 ## Theme Structure
 Ensure the theme folder `foodifly` contains the following structure:
