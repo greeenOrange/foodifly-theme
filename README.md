@@ -42,3 +42,6 @@ Ensure the theme folder `foodifly` contains the following structure:
     Log in to your WordPress admin dashboard.
     Go to Appearance > Themes.
     Find the Foodifly theme and click Activate.
+    GO to Plugins > Add New Plugin
+    Install kirki or upload kirki in plugins folder 
+    Active Kirki Customizer Framework By - Themeum
